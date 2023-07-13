@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_</name>
+   <tag></tag>
+   <elementGuidId>4fafba36-9f02-4675-991c-8522f4bcdb04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='policy-info']/div/section/div/div/form[3]/header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>8186f008-6225-4fc4-a669-80c3884ec651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-edoYdd ctTQJH has-icon</value>
+      <webElementGuid>dc32ab3e-e943-425f-8de4-30ba6f2a7b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>거리 </value>
+      <webElementGuid>653fa2f4-bed4-4b67-96d9-8fe301753d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;policy-info&quot;)/div[@class=&quot;sc-giImIA eNzKXM spendit-container&quot;]/section[@class=&quot;sc-cxFLGX kDTybV detail&quot;]/div[@class=&quot;sc-dIUeWJ sc-lmyUgd jZJFjf cBOibT&quot;]/div[@class=&quot;sc-idOiZg bEkbKy&quot;]/form[@class=&quot;sc-iWRHom fwewlo&quot;]/header[@class=&quot;sc-edoYdd ctTQJH has-icon&quot;]</value>
+      <webElementGuid>389e8e0d-c482-4779-a51e-e1625c9d4651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='policy-info']/div/section/div/div/form[3]/header</value>
+      <webElementGuid>cd5b469d-585c-488f-81fc-c3df665723b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='통화'])[1]/following::header[1]</value>
+      <webElementGuid>9983cc88-6c1b-4dd5-93b4-4679ebff3bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='금액'])[2]/following::header[1]</value>
+      <webElementGuid>7caaa77d-eaee-45d9-b51d-3182dd1ea6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='유종 추가'])[1]/preceding::header[1]</value>
+      <webElementGuid>d5c41575-1d53-411d-ae60-75d1d2e0d929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[3]/header</value>
+      <webElementGuid>4623ef2e-02eb-4a89-b37a-dd5128565424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = '거리 ' or . = '거리 ')]</value>
+      <webElementGuid>d6130a00-0267-4372-91b4-5a58a184380d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>d573f89e-a0db-4d55-ab02-a8be420e0f25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-eJCack.efkkRN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/form/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f95060ea-1b83-48c7-b074-20ea7a2c3763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eJCack efkkRN</value>
+      <webElementGuid>51a4a884-3d47-4e89-b970-90fd158cafc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>스팬딧에 오신 것을 환영합니다!</value>
+      <webElementGuid>5e0ce4c8-8300-4f5e-8996-677b6f7601cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fnlXEO kyUQzC&quot;]/div[@class=&quot;sc-jfJyPD jIxhWS&quot;]/div[@class=&quot;sc-jYCGPb gVhugJ&quot;]/form[@class=&quot;sc-hlWxgi ceLMGk sc-bKNxrx fwHqDW&quot;]/p[@class=&quot;sc-eJCack efkkRN&quot;]</value>
+      <webElementGuid>31216b8b-3fd2-49c5-a1aa-47063d0c548e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/p</value>
+      <webElementGuid>329c2f9f-1cc2-4706-9171-91865d9f2085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='로그인'])[1]/following::p[1]</value>
+      <webElementGuid>31f36dee-b631-447c-a5cf-2f30b16f91e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='이메일'])[1]/preceding::p[1]</value>
+      <webElementGuid>a25c9833-483d-4a6c-954d-8d8c7aa3d8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호'])[1]/preceding::p[1]</value>
+      <webElementGuid>43fbb1db-5384-43e7-9f07-d50156a1b716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='스팬딧에 오신 것을 환영합니다!']/parent::*</value>
+      <webElementGuid>7db3c906-6aa3-4105-91c5-c8db7a59976d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f8581290-54a9-41e4-ace3-044d5f98f685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '스팬딧에 오신 것을 환영합니다!' or . = '스팬딧에 오신 것을 환영합니다!')]</value>
+      <webElementGuid>9f257726-c3a3-42bd-8bc9-009628646646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

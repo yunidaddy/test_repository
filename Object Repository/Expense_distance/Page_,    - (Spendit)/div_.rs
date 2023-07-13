@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>b9583696-4da8-4ae3-94f0-c232fda81972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-boeJfj.hAieJp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='policy']/div/section/div[2]/div[2]/div/div[2]/div/div/span/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '패스트트랙' or . = '패스트트랙')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53e3547b-8753-4a20-9dec-a4ea5bf0f414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-boeJfj hAieJp</value>
+      <webElementGuid>ab5dd63e-1ba2-4251-9b80-9aeaf186c3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>패스트트랙</value>
+      <webElementGuid>35aaf8ff-b513-4ef5-aeb5-27bfb5bcee8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-kmATbt gfIwBy&quot;]/div[@id=&quot;policy&quot;]/div[@class=&quot;sc-giImIA eNzKXM spendit-container&quot;]/section[@class=&quot;sc-cxFLGX kDTybV main&quot;]/div[@class=&quot;sc-dIUeWJ sc-fGPjCt icHBPZ gQfwdh&quot;]/div[@class=&quot;sc-hWiVVa kOhdHG&quot;]/div[@class=&quot;sc-eFuaqX hnTXOO&quot;]/div[@class=&quot;sc-jXktde bueyY&quot;]/div[@class=&quot;sc-fXoxaI jDZndW policy-row&quot;]/div[@class=&quot;sc-bQdRvg bOiPlJ policy-td-1&quot;]/span[@class=&quot;policy-name&quot;]/div[@class=&quot;sc-boeJfj hAieJp&quot;]</value>
+      <webElementGuid>988cc5ab-1f8c-4523-ae51-0a2a80c41561</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='policy']/div/section/div[2]/div[2]/div/div[2]/div/div/span/div</value>
+      <webElementGuid>466fe1b2-dee5-4e71-a5fa-17e506107597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='유형'])[1]/following::div[5]</value>
+      <webElementGuid>824c5ee4-9576-444f-85a2-f0efda42d96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='폴리시 관리자'])[1]/following::div[6]</value>
+      <webElementGuid>214c99b7-1e2f-4260-95eb-082a82854385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ceo@star.com'])[1]/preceding::div[1]</value>
+      <webElementGuid>01151a67-ae4b-4802-8f8d-0dbafff5e870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate'])[1]/preceding::div[3]</value>
+      <webElementGuid>538beba6-81be-4170-a547-9d62b3a0941c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='패스트트랙']/parent::*</value>
+      <webElementGuid>890485c8-e20b-44ed-94c5-b219ba7dc6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>60ca0359-51ae-4b86-a4fc-97c6e5e8f94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '패스트트랙' or . = '패스트트랙')]</value>
+      <webElementGuid>eeb565d6-a550-4a99-8185-2083651cf106</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

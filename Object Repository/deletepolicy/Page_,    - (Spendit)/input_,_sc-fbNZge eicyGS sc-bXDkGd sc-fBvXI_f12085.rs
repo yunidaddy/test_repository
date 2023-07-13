@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_,_sc-fbNZge eicyGS sc-bXDkGd sc-fBvXI_f12085</name>
+   <tag></tag>
+   <elementGuidId>cd5f72ce-00d3-411a-a434-287833313bd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.sc-fbNZge.eicyGS.sc-bXDkGd.sc-fBvXIC.gzUuKj.kgpRYH</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>268b1e3c-c7f9-490d-8c07-2dbba45bb225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-fbNZge eicyGS sc-bXDkGd sc-fBvXIC gzUuKj kgpRYH</value>
+      <webElementGuid>c8cffcb0-b93f-4ead-87fc-e7215072de0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>f35ff92a-f2f5-4bce-8508-4f19243711eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-container&quot;)/div[@class=&quot;sc-pGacB ieaXHU spendit-modal-container&quot;]/div[@class=&quot;sc-fubCzh ejlNuV&quot;]/div[@class=&quot;sc-fWSDcn fHxGlL&quot;]/div[@class=&quot;sc-cgwasx iJlcpj&quot;]/div[@class=&quot;sc-kTLXcG sc-fMpnsd eEupxf dhaInl&quot;]/input[@class=&quot;sc-fbNZge eicyGS sc-bXDkGd sc-fBvXIC gzUuKj kgpRYH&quot;]</value>
+      <webElementGuid>8af34d0d-691e-4d8a-bab2-44d7a77a41a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>b33d45b7-80bc-471b-a79e-6857129b5925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='global-container']/div[2]/div/div/div[3]/div/input</value>
+      <webElementGuid>f44bd6fa-4dd5-4e58-9cbe-0ee322efa12f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>c953fd57-ba6a-42c7-95bc-1016d56a6c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>1ef29e9e-bf76-44eb-95f9-d8ee8fc28ad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

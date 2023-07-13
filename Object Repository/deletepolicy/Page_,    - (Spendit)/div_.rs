@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>1e25cd06-78be-434f-a067-62f0f313e868</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-jdPOwN.kbgWZy.main</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='feed']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f85593c1-d385-4c37-bea5-0170cbf7dd2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jdPOwN kbgWZy main</value>
+      <webElementGuid>263a9a8e-425c-4054-9d4a-6e611e3f71b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>피드가 없습니다.새로운 알림이 오면 알려드릴게요!</value>
+      <webElementGuid>2b68e0f9-7b92-44c2-bac0-3f62baeea0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-kmATbt gfIwBy&quot;]/div[@id=&quot;feed&quot;]/div[@class=&quot;sc-giImIA eNzKXM spendit-container&quot;]/div[@class=&quot;sc-jdPOwN kbgWZy main&quot;]</value>
+      <webElementGuid>6e337fa2-1431-41a7-9ad6-51808e39e32f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='feed']/div/div</value>
+      <webElementGuid>3b15aa74-8ec8-4bbe-baf8-e120d6e57834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='도움말'])[1]/following::div[3]</value>
+      <webElementGuid>b86d3c10-2495-4701-b1f0-b8dcd93a857e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='지정 안함'])[1]/following::div[4]</value>
+      <webElementGuid>de936bd5-f2f7-4b90-8b3a-caf0446d58a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>c7e52cb6-1da6-4e63-8854-f581f04b9707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '피드가 없습니다.새로운 알림이 오면 알려드릴게요!' or . = '피드가 없습니다.새로운 알림이 오면 알려드릴게요!')]</value>
+      <webElementGuid>f358c3d7-d92c-4f1e-b8ef-9b927d76d693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

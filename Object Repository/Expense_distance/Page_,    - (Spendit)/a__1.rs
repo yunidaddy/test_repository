@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>0f6c0ce5-5e07-416e-861b-852613d73919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='policy-info']/div/section/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/policy/46033570/expense' and (text() = '지출' or . = '지출')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d77d8d9b-0a4e-436d-908e-0b2325ea78bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/policy/46033570/expense</value>
+      <webElementGuid>76e40c63-d7d8-4bf4-8593-c6034a0b40a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>지출</value>
+      <webElementGuid>1629d2a7-1832-4b5e-ac98-51d9f9617d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;policy-info&quot;)/div[@class=&quot;sc-giImIA eNzKXM spendit-container&quot;]/section[@class=&quot;sc-cxFLGX kDTybV detail&quot;]/ul[@class=&quot;sc-fodVek kNXSfc&quot;]/li[@class=&quot;sc-fFucqa gHVifW&quot;]/a[1]</value>
+      <webElementGuid>35acf1b6-fac2-4e7c-be44-7113c6b4bfac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='policy-info']/div/section/ul/li[4]/a</value>
+      <webElementGuid>be986669-3fb6-4fbf-aef6-328cafd8f86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'지출')])[2]</value>
+      <webElementGuid>87b51fb2-5389-4ee0-944c-f1ccf9d26700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='멤버'])[1]/following::a[1]</value>
+      <webElementGuid>429ea37d-62c4-41b0-a6de-4b6a2aeffd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='승인라인'])[1]/following::a[2]</value>
+      <webElementGuid>e47bf8a8-c8b6-44c6-bb28-cdacd4174535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='보고서'])[2]/preceding::a[1]</value>
+      <webElementGuid>dfe5a1a3-4b65-4630-a8e8-feb2c9cfdeb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='플랜'])[1]/preceding::a[2]</value>
+      <webElementGuid>b9405651-2b2a-417c-9fbd-2c6677ccb7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/policy/46033570/expense')]</value>
+      <webElementGuid>17bba0ab-6038-43d0-8f86-cc82f011ac4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li[4]/a</value>
+      <webElementGuid>713b91ed-af3b-452a-bf40-3df93222883b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/policy/46033570/expense' and (text() = '지출' or . = '지출')]</value>
+      <webElementGuid>7b8c6c37-f414-492c-ac95-0d18afde2c1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

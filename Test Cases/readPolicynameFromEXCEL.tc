@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>readPolicynameFromEXCEL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f6fc33e-d0c5-44c7-9f76-c0b54f5cb037</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>674fb7bb-6567-4578-82a6-f54c067fb43e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>674fb7bb-6567-4578-82a6-f54c067fb43e</id>
+      <masked>false</masked>
+      <name>Pname</name>
+   </variable>
+</TestCaseEntity>

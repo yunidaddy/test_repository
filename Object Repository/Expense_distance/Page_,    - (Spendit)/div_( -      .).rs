@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_( -      .)</name>
+   <tag></tag>
+   <elementGuidId>2f326d2b-33b6-421a-a6c6-ebf422487954</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-html-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='swal2-html-container']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'swal2-html-container' and (text() = concat(&quot;본 설정이 &quot; , &quot;'&quot; , &quot;승인 완료 이전 상태&quot; , &quot;'&quot; , &quot; 지출들에 즉시 적용됩니다.(미적용 - &quot; , &quot;'&quot; , &quot;제출 전 상태&quot; , &quot;'&quot; , &quot; 지출에만 즉시 적용됩니다.)&quot;) or . = concat(&quot;본 설정이 &quot; , &quot;'&quot; , &quot;승인 완료 이전 상태&quot; , &quot;'&quot; , &quot; 지출들에 즉시 적용됩니다.(미적용 - &quot; , &quot;'&quot; , &quot;제출 전 상태&quot; , &quot;'&quot; , &quot; 지출에만 즉시 적용됩니다.)&quot;))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b01cca82-91a0-48ad-9b37-53cb51214352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-html-container</value>
+      <webElementGuid>d3414d30-4133-46a5-9641-2792a46ac368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-html-container</value>
+      <webElementGuid>77d359f2-8258-4a13-8ef4-0f5667a519e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>본 설정이 '승인 완료 이전 상태' 지출들에 즉시 적용됩니다.(미적용 - '제출 전 상태' 지출에만 즉시 적용됩니다.)</value>
+      <webElementGuid>ff80c4e4-fbff-4145-bf1d-3c3210161992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-html-container&quot;)</value>
+      <webElementGuid>641afec2-421e-491b-97aa-c6659d82f731</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='swal2-html-container']</value>
+      <webElementGuid>ef231f49-9549-454a-9e62-08cf97ad164d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/following::div[1]</value>
+      <webElementGuid>7115a75a-7a30-4d5d-bd0e-214f75cef1c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[3]</value>
+      <webElementGuid>b3cd1a06-26b7-4329-ad58-fab1e78bfc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='적용'])[1]/preceding::div[5]</value>
+      <webElementGuid>23e2ff61-f1e7-469a-a347-5f9e1d0775b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[5]</value>
+      <webElementGuid>79264c41-d1a2-4873-8d45-12cdf47e9fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]</value>
+      <webElementGuid>05199c7c-0afa-4058-b561-1b9eeeef7160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'swal2-html-container' and (text() = concat(&quot;본 설정이 &quot; , &quot;'&quot; , &quot;승인 완료 이전 상태&quot; , &quot;'&quot; , &quot; 지출들에 즉시 적용됩니다.(미적용 - &quot; , &quot;'&quot; , &quot;제출 전 상태&quot; , &quot;'&quot; , &quot; 지출에만 즉시 적용됩니다.)&quot;) or . = concat(&quot;본 설정이 &quot; , &quot;'&quot; , &quot;승인 완료 이전 상태&quot; , &quot;'&quot; , &quot; 지출들에 즉시 적용됩니다.(미적용 - &quot; , &quot;'&quot; , &quot;제출 전 상태&quot; , &quot;'&quot; , &quot; 지출에만 즉시 적용됩니다.)&quot;))]</value>
+      <webElementGuid>cafc1eb0-d556-466c-b9ee-82fa5c9d38a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
